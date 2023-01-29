@@ -1,0 +1,16 @@
+body {
+    font-family: 'Minion Pro';
+    padding: 10%;
+    background-color: rgb(73, 216, 255);
+}
+h1 {
+    font-size: 75px;
+}
+.main-image {
+    width: 450px;
+  }
+  @media (max-width: 700px) {
+    .main-image {
+      width: 100%;
+    }
+  }
